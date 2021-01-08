@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on
   - Sadtech.ir website and projects
-  - Aazerra.ir portofolio website
+  - Aazerra.ir portfolio website
   - A Telegram api bot package for python
   - A Telegram bot named TelePigeon
 
