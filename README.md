@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 How to reach me: info@aazerra.ir
+📫 How to reach me: alirezarabie793@gmail.com
 
 🔭 I’m currently working on
   - Sadtech.ir website and projects
