@@ -3,15 +3,14 @@
 #### I am alireza rabie aka aazerra
 
 - 🔭 I’m currently working on 👇
-  - Sadtech.ir website
   - Aazerra.ir portfolio website
 - 🌱 I’m currently learning
-
   - Docker
   - Advanced things about python
   - DevOps
   - Bash
   - Vim
+  - Rust
 
 - 💬 Ask me about **Linux and Programming**
 
@@ -45,9 +44,6 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://discordapp.com/users/575829287530397705" target="blank">
-	<img align="center" target="_blank" src="https://img.icons8.com/color/96/000000/discord.png" width="30" />
-</a>&ensp;
 <a href="https://dev.to/aazerra" target="blank">
 	<img align="center" target="_blank" src="https://img.icons8.com/windows/96/000000/dev.png" alt="aazerra" width="30" />
 </a>&ensp;
