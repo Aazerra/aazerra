@@ -3,14 +3,13 @@
 #### I am alireza rabie aka aazerra
 
 - 🔭 I’m currently working on 👇
-  - Aazerra.ir portfolio website
+  - Aazerra.dev portfolio website
+  - Wejoiner Backend
 - 🌱 I’m currently learning
   - Docker
-  - Advanced things about python
-  - DevOps
+  - Typescript And JavaScript
   - Bash
-  - Vim
-  - Rust
+  - NeoVim
 
 - 💬 Ask me about **Linux and Programming**
 
