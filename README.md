@@ -4,10 +4,10 @@
 
 - 🔭 I’m currently working on 👇
   - Aazerra.dev portfolio website
-  - Wejoiner Backend
+  - Personal Dashboard
 - 🌱 I’m currently learning
-  - Docker
-  - Typescript And JavaScript
+  - Incus
+  - Typescript And JavaScript + NextJS
   - Bash
   - NeoVim
 
